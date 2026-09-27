@@ -5,6 +5,7 @@
 I turned **23,906 car sales transactions** into an interactive report that tracks performance over time and lets a dealership investigate what drives it. This project showcases my work with **DAX, date and time intelligence, KPI development, and Power BI report design**.
 
 ![Overview page of the Car Sales Performance Dashboard](overview.png)
+![details page of the Car Sales Performance Dashboard](details.png)
 
 ## What I achieved
 
